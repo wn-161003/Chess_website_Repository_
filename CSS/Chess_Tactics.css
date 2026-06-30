@@ -1,0 +1,146 @@
+
+body {
+    background-color: transparent;
+ background-image: url('backround_famous.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+ background-position: center;
+}
+body {
+font-family: Arial, sans-serif;
+ background-color: hsl(0, 0%, 100%);
+color: #000000;
+margin: 20px;
+}
+.scb {
+ position: fixed;
+top: 10px;
+ right: 10px;
+width: 60px; 
+height: auto;
+}
+h1 {
+font-size: 50px;       
+color: rgb(0, 0, 0);       
+font-family: Georgia, serif;
+ letter-spacing: 3px;
+text-transform: uppercase; 
+}
+.abc {
+              position: relative;
+}
+.full_page_image_2 {
+width: 100%;
+height: 100vh;
+ object-fit: cover;
+}
+.overlay {
+position: absolute;
+top: px;
+left: 50%;
+transform: translateX(-50%);
+    
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 12px;
+}
+.overlay h2 {
+background-color: white;
+color: black;
+padding: 12px 20px;
+border-radius: 20px;
+margin: 0;
+border-bottom: 3px solid grey;
+}
+
+
+
+
+
+
+
+
+
+.overlay a {
+background-color: white;
+color: black;
+padding: 12px 20px;
+border-radius: 20px;
+text-decoration: none;
+display: inline-block;
+border-bottom: 3px solid grey;
+}
+.widget {
+margin-top: 5px;
+font-size: 14px;
+}
+.www {
+background-color: grey;
+text-align: center;
+padding: 15px;
+}
+.www h1 {
+margin: 0;
+}
+.hero {
+display: flex;
+align-items: center;
+gap: 20px;
+}
+html {
+scroll-behavior: smooth;
+}
+.afg:hover {
+background-color: #e0e0e0;
+}
+.info_link {
+text-decoration: none;
+ color: inherit;
+display: inline-block;
+}
+.afg {
+background-color: #f2f2f2;
+border-radius: 15px;
+padding: 20px;
+ max-width: 300px;
+transition: background-color 0.3s ease;
+}
+.afg:hover {
+background-color: #e0e0e0;
+cursor: pointer;
+}
+.top_button {
+position: fixed;
+bottom: 20px;
+right: 20px;
+background-color: #d9d9d9;
+color: black;
+padding: 10px 15px;
+border-radius: 20px;
+text-decoration: none;
+border: 1px solid grey;
+z-index: 9999;
+}
+.top_button:hover {
+background-color: #e0e0e0;
+cursor: pointer;
+}
+.rewtyy {
+background-color: #f2f2f2;
+color: black;
+padding: 12px 20px;
+border-radius: 15px;
+text-decoration: none;
+isplay: inline-block;
+transition: background-color 0.3s ease;
+border: 1px solid grey;
+}
+
+.rewtyy:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+}
+
+
+
